@@ -11,7 +11,7 @@
 <a href="https://t.me/UNDERtaKeR_X" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iskanderovak98@gmail.com)
+
   
 
 
