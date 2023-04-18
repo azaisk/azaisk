@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Glad to see you.</h1>
 <p>Welcome to my page! </br> I'm Azamat, Fullstack developer from <img src="https://img.freeflagicons.com/thumb/glossy_round_icon/kazakhstan/kazakhstan_640.png" width="20"/> <b>Kazakhstan</b>, currently living in <img src="https://img.freeflagicons.com/thumb/round_icon/russia/russia_640.png" width="20"/> <b>Moscow, Russia</b>. </p>
 
 
@@ -15,7 +15,7 @@
   
 
 
-### Glad to see you here!  
+### About me:  
 I am a FullStack developer with almost 2 years of experience. I am keen on creating new web applications and am constantly developing my skills in this area.
 
 I am especially excited about integration with external services and APIs. I am always ready for training and development in the professional field. I am sociable, responsible and ready for new projects and tasks.
