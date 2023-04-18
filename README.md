@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Azamat, Fullstack developer from <img src="https://img.freeflagicons.com/thumb/glossy_round_icon/kazakhstan/kazakhstan_640.png" width="13"/> <b>Kazakhstan</b>, currently living in <img src="https://img.freeflagicons.com/thumb/round_icon/russia/russia_640.png" width="13"/> <b>Moscow, Russia</b>. </p>
-
+<p>Welcome to my page! </br> I'm Azamat, Fullstack developer from <img src="https://img.freeflagicons.com/thumb/glossy_round_icon/kazakhstan/kazakhstan_640.png" width="20"/> <b>Kazakhstan</b>, currently living in <img src="https://img.freeflagicons.com/thumb/round_icon/russia/russia_640.png" width="20"/> <b>Moscow, Russia</b>. </p>
 
 
 <a href="https://github.com/Azamatik98" target="_blank">
@@ -14,7 +13,6 @@
 </a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iskanderovak98@gmail.com)
   
-
 
 
 ### Glad to see you here!  
@@ -99,8 +97,3 @@ I am ready to apply my knowledge and experience to create high-quality and innov
 
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
