@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Glad to see you.</h1>
-<p>Welcome to my page! </br> I'm Azamat, Fullstack developer from <img src="https://img.freeflagicons.com/thumb/glossy_round_icon/kazakhstan/kazakhstan_640.png" width="30"/> <b>Kazakhstan</b>, currently living in <img src="https://img.freeflagicons.com/thumb/round_icon/russia/russia_640.png" width="30"/> <b>Moscow, Russia</b>. </p>
+<p>Welcome to my page! </br> I'm Azamat, Fullstack developer from <img src="https://img.freeflagicons.com/thumb/glossy_round_icon/kazakhstan/kazakhstan_640.png" width="30"/> <b>Kazakhstan</b>, currently living in <img src="https://img.freeflagicons.com/thumb/round_icon/russia/russia_640.png" width="30"/> <b>Almaty, Kazakhstan</b>. </p>
 
 
 <a href="https://github.com/Azamatik98" target="_blank">
