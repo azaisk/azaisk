@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Glad to see you.</h1>
-<p>Welcome to my page! </br> I'm Azamat, Fullstack developer from <img src="https://img.freeflagicons.com/thumb/glossy_round_icon/kazakhstan/kazakhstan_640.png" width="30"/> <b>Kazakhstan</b>, currently living in <img src="https://img.freeflagicons.com/thumb/round_icon/russia/russia_640.png" width="30"/> <b>Almaty, Kazakhstan</b>. </p>
-
+<p>Welcome to my page! </br> I'm Azamat, Fullstack developer from <img src="https://img.freeflagicons.com/thumb/glossy_round_icon/kazakhstan/kazakhstan_640.png" width="30"/> <b>Kazakhstan</b>, currently living in <img src="https://img.freeflagicons.com/thumb/glossy_round_icon/kazakhstan/kazakhstan_640.png" width="30"/> <b>Almaty, Kazakhstan</b>. </p>
 
 <a href="https://github.com/Azamatik98" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -12,45 +11,38 @@
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-  
+### About me:
 
-
-### About me:  
 I am a FullStack developer with almost 2 years of experience. I am keen on creating new web applications and am constantly developing my skills in this area.
 
 I am especially excited about integration with external services and APIs. I am always ready for training and development in the professional field. I am sociable, responsible and ready for new projects and tasks.
 
-I am ready to apply my knowledge and experience to create high-quality and innovative web applications. If you have an interesting project that needs a full-featured developer, then I will be happy to discuss the possibility of cooperation. Thank you for your attention!  
-  
+I am ready to apply my knowledge and experience to create high-quality and innovative web applications. If you have an interesting project that needs a full-featured developer, then I will be happy to discuss the possibility of cooperation. Thank you for your attention!
 
-<br/>  
+<br/>
 
+## Rapidfire
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🎆 I’m currently looking for a job👀  
-  
+- 🎆 I’m currently looking for a job👀
 
-- 🦀 I’m currently learning Vue and Rust   
-  
+- 🦀 I’m currently learning Vue and Rust
 
-- ✍️ I do projects correlated with Web Development as well as anything related to the MERN stack and related technologies  
-
+- ✍️ I do projects correlated with Web Development as well as anything related to the MERN stack and related technologies
 
 </td><td valign="top" width="50%">
 
 <div align="right">
 <img src="https://giffun.ru/wp-content/uploads/2022/08/6c90288d7e10d46d18895f17f420a92c.gif" align="right" height="250" width="300" />
-</div>  
+</div>
 
+</td></tr></table>
 
-</td></tr></table>  
+<br/>
 
-<br/>  
+## Languages and Tools
 
-
-## Languages and Tools  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -70,12 +62,12 @@ I am ready to apply my knowledge and experience to create high-quality and innov
 <a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>  
+</div>
 
-<br/>  
+<br/>
 
+## Github Stats
 
-## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Azamatik98&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -84,16 +76,12 @@ I am ready to apply my knowledge and experience to create high-quality and innov
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamatik98&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
-  
+<br/>
 
-<br/>  
+![Profile views counter](https://komarev.com/ghpvc/?username=Azamatik98&&style=flat-square)
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Azamatik98&&style=flat-square)  
-  
-
-<br/>  
-
+<br/>
