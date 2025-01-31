@@ -13,7 +13,7 @@
 
 ### About me:
 
-I am a FullStack developer with almost 2 years of experience. I am keen on creating new web applications and am constantly developing my skills in this area.
+I am a FullStack developer with almost 3+ years of experience. I am keen on creating new web applications and am constantly developing my skills in this area.
 
 I am especially excited about integration with external services and APIs. I am always ready for training and development in the professional field. I am sociable, responsible and ready for new projects and tasks.
 
