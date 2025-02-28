@@ -21,26 +21,6 @@ I am ready to apply my knowledge and experience to create high-quality and innov
 
 <br/>
 
-## Rapidfire
-
-<table><tr><td valign="top" width="50%">
-
-- 🎆 I’m currently looking for a job👀
-
-- 🦀 I’m currently learning Vue and Rust
-
-- ✍️ I do projects correlated with Web Development as well as anything related to the MERN stack and related technologies
-
-</td><td valign="top" width="50%">
-
-<div align="right">
-<img src="https://giffun.ru/wp-content/uploads/2022/08/6c90288d7e10d46d18895f17f420a92c.gif" align="right" height="250" width="300" />
-</div>
-
-</td></tr></table>
-
-<br/>
-
 ## Languages and Tools
 
 <div align="center">  
