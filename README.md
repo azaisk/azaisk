@@ -50,11 +50,11 @@ I am ready to apply my knowledge and experience to create high-quality and innov
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azamatik98&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=azaisk&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamatik98&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaisk&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
 
@@ -62,6 +62,6 @@ I am ready to apply my knowledge and experience to create high-quality and innov
 
 <br/>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Azamatik98&&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=azaisk&&style=flat-square)
 
 <br/>
